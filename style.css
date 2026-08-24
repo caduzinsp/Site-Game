@@ -1,0 +1,95 @@
+img{height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    
+}
+
+
+
+nav{
+background-color: #4503d4;
+height:60px;
+}
+
+
+p{
+    margin:0
+}
+
+.principal{
+    background-color: #4503d4;
+    display:flex;
+ justify-content:space-between
+}
+.secundaria{
+    display:flex;
+    flex-direction: column;
+    gap: 20px;
+   
+}
+input{
+    height: 30px;
+    border-radius: 20px;
+}
+
+.logo{
+    width: 40px;
+
+    height: 40px;
+}
+.pai{
+    display: flex;
+
+    justify-content:space-around;
+}
+.caixinha{background-color: #cccec1;
+    height:200px;
+    width: 300px;
+    border-radius: 20px;
+    
+
+}nav{display: flex;
+    justify-content: space-between;
+    
+
+
+}
+.titulo{color: aliceblue;
+
+
+
+}
+.titulo2{color: #e0d2d2;
+
+
+}
+
+.container{display: flex;
+    justify-content: space-between;
+    height: 50px;
+
+}
+.produto{
+    width: 100px;
+    height: 100px;
+}
+.vicio{
+    width: 100px;
+    height: 100px;
+
+
+}
+.divesao{
+
+    width: 100px;
+    height: 100px;
+
+
+}
+.distraçao{
+    width: 100px;
+    height: 100px;
+
+
+
+}
